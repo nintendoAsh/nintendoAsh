@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nintendoAsh
-- 👀 I’m interested in ... coding FNF super mario and my game I am working on (the girl's soul)
-- 🌱 I’m currently learning ... how to make FNF mod c# and paino
-- 💞️ I’m looking to collaborate on ...fnf mods 
-- 📫 How to reach me ...crently there is no way to reach me sorry
+- 👀 I’m interested in ... Programing and Computers which I am getting quite good at 
+- 🌱 I’m currently learning ... how to program faster
+- 💞️ I’m looking to collaborate on ... I don't Realy know I am currently working on my game for two nerds studios so I don't know if I will be open for collabs 
+- 📫 How to reach me ... I have a discord: Nintendo Ash nintendoash12
 
 <!---
 nintendoAsh/nintendoAsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
